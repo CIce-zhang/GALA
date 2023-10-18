@@ -3,7 +3,7 @@
 Codes for Semi-supervised Entity Alignment with Global Alignment and Local Information Aggregation.
 
 ## Dataset
-We use two entity alignment datasets DBP15K and SRP in our experiments. DBP15K can be downloaded from [JAPE](https://github.com/nju-websoft/JAPE) and SRP is from [RSN](https://github.com/nju-websoft/RSN).
+We use two entity alignment datasets DBP15K and SRP in our experiments. DBP15K can be downloaded from [JAPE](https://github.com/nju-websoft/JAPE) and SRP is from [RSN](https://github.com/nju-websoft/RSN). Eigen vectors can be found at /EigenVector.
 
 
 ## Code
